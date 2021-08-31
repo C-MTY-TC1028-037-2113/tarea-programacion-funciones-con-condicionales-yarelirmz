@@ -16,6 +16,6 @@ def main():
     r = tarjetas(pli,plu)
 
     print("El número máximo de tarjetas que se pueden hacer es:",r)
-
+#codigo correcto
 if __name__=='__main__':
     main()
